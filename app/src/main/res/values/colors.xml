@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#E0FF5722</color>
+    <color name="colorAccent2">#FF000000</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="tabColor">#FF5722</color>
+    <color name="colorText">#ffffff</color>
+    <color name="tabScrollColor">#FFFFFFFF</color>
+    <color name="tabMeetting">#ff535353</color>
+    <!--color name="textTabSliding">#852204</color-->
+    <color name="textTabSliding">#FFABA9A8</color>
+    <color name="BarRoom">#FF7B766C</color>
+
+    <color name="colorCalender">#dddddd</color>
+</resources>
